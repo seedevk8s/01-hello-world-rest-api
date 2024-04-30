@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-RestfulWebServicesApplication<01-hello-world-rest-api>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.in28minutes.rest.webservices.restfulwebservices.RestfulWebServicesApplication",
+            "projectName": "01-hello-world-rest-api",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
